@@ -2,7 +2,9 @@
 
 This is a tutorial project implemented in order to learn how GraphQl works by creating an API for a HackerNews clone.
 
-The API currently supports:
+If you want to start and follow this tutorial from scratch, head to https://www.howtographql.com/typescript-apollo/0-introduction/.
+
+The API supports:
 * Signing up & logging in
 * Query of links
   * with filtering, sorting & pagination support
